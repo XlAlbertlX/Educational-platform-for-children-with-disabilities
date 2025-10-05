@@ -43,10 +43,13 @@
   <li><b>OSPanel и phpMyAdmin</b> - локальный сервер с базой данных MySQL.</li>
 </ul>
 <h2>Демонстрация</h2>
-<p>
-👉 <a target="_blank" href="https://github.com/XlAlbertlX/Educational-platform-for-children-with-disabilities/blob/main/media/demo.mp4">Посмотреть видео</a>  
-<br/>(добавьте ссылку после загрузки демо)
-</p>
+</html>
+
+
+https://github.com/user-attachments/assets/36e622dc-f0f4-4803-adb6-27b5b4ea0114
+
+
+<html>
 <h2>🚀 Установка</h2>
 <ol>
   <li>Скачайте последнюю версию приложения из раздела <b>Releases</b>.</li>
